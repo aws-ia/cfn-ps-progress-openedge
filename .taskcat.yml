@@ -1,5 +1,5 @@
 project:
-  name: quickstart-progress-openedge
+  name: cfn-ps-progress-openedge
   owner: egarcia@progress.com
   package_lambda: false
   regions:
@@ -33,7 +33,7 @@ tests:
       KeyPairName: $[taskcat_getkeypair]
       QSS3BucketName: $[taskcat_autobucket]
       QSS3BucketRegion: $[taskcat_current_region]
-      QSS3KeyPrefix: quickstart-progress-openedge/
+      QSS3KeyPrefix: cfn-ps-progress-openedge/
       RemoteAccessCIDR: 0.0.0.0/0
       WebAccessCIDR: 0.0.0.0/0
       DeployBucket: override

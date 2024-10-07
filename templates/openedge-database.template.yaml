@@ -192,43 +192,43 @@ Mappings:
     AMI:
       OEDBAMZNLINUX2: Amazon Linux 2 AMI with OpenEdge Database
     af-south-1:
-      OEDBAMZNLINUX2: ami-02b75f15c4cef540b
+      OEDBAMZNLINUX2: ami-09ce20bd4810480a1
     ap-east-1:
-      OEDBAMZNLINUX2: ami-0e7f1dfd20e0231c3
+      OEDBAMZNLINUX2: ami-0b739bd85484ac94c
     ap-northeast-1:
-      OEDBAMZNLINUX2: ami-085a33252f1fee74e
+      OEDBAMZNLINUX2: ami-0c78d0cc2a2839aec
     ap-northeast-2:
-      OEDBAMZNLINUX2: ami-063b65912dda0e599
+      OEDBAMZNLINUX2: ami-068077c191bed032c
     ap-south-1:
-      OEDBAMZNLINUX2: ami-0bcf9f77667f96966
+      OEDBAMZNLINUX2: ami-0e5a942f05a621418
     ap-southeast-1:
-      OEDBAMZNLINUX2: ami-07f9924758aab9a9f
+      OEDBAMZNLINUX2: ami-05215ac269a71e800
     ap-southeast-2:
-      OEDBAMZNLINUX2: ami-0193dcf39b9412dc0
+      OEDBAMZNLINUX2: ami-0dd18b69f2d988290
     ca-central-1:
-      OEDBAMZNLINUX2: ami-0931351a82f0fafcf
+      OEDBAMZNLINUX2: ami-03a65216ae7bc6206
     eu-central-1:
-      OEDBAMZNLINUX2: ami-0f57299ef84865a60
+      OEDBAMZNLINUX2: ami-0fe1bf999cff256ae
     eu-north-1:
-      OEDBAMZNLINUX2: ami-0eb6d8e034c3b26c9
+      OEDBAMZNLINUX2: ami-04cc80044c1d1a4d8
     eu-south-1:
-      OEDBAMZNLINUX2: ami-005303d2d2ca3b842
+      OEDBAMZNLINUX2: ami-0b71439fbd51761c5
     eu-west-1:
-      OEDBAMZNLINUX2: ami-064aba9f09a2f0773
+      OEDBAMZNLINUX2: ami-0fa75e0dcebdf1bee
     eu-west-2:
-      OEDBAMZNLINUX2: ami-09c70c861bd6b80b0
+      OEDBAMZNLINUX2: ami-0d41906dadd81ae38
     eu-west-3:
-      OEDBAMZNLINUX2: ami-0e4dfcd87921f1198
+      OEDBAMZNLINUX2: ami-0b8e8892c83f76b51
     sa-east-1:
-      OEDBAMZNLINUX2: ami-0f1f1431655455b8d
+      OEDBAMZNLINUX2: ami-0e88ebe08ffd40f47
     us-east-1:
-      OEDBAMZNLINUX2: ami-079ae64665ebf4925
+      OEDBAMZNLINUX2: ami-00e1934b96fd35d5d
     us-east-2:
-      OEDBAMZNLINUX2: ami-01bb7ffe18ddf4fe3
+      OEDBAMZNLINUX2: ami-0e799d9d986ceadad
     us-west-1:
-      OEDBAMZNLINUX2: ami-0bc216181300e667e
+      OEDBAMZNLINUX2: ami-04e14495ff1f985de
     us-west-2:
-      OEDBAMZNLINUX2: ami-0c99cc3a6bede73e6
+      OEDBAMZNLINUX2: ami-00663e544f8461061
 Resources:
   NotificationTopic:
     Type: "AWS::SNS::Topic"
